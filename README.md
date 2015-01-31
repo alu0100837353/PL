@@ -21,7 +21,18 @@
   
   * ![Node Direct.png](/pictures/working.png "Direct Cloud9")
   
+  O podemos usarlo desde fichero, generamos nuestro código en un fichero:
 
+    ~~~
+    console.log(Hello, i'm working fine);
+    ~~~
+    
+  Una vez guardado (en este caso en helloWorld.js) lo ejecutamos:
+  
+  * ![Node file.png](/pictures/file.png "File Cloud9")
+  
+ 
+  
   
   
   
